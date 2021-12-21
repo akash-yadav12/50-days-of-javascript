@@ -7,4 +7,5 @@ function isEmpty(obj) {
     }
     return false
 }
+
 console.log(`is empty object: ${isEmpty(obj)}`)
